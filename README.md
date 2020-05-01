@@ -2,7 +2,7 @@
  * @Autor: xujiahuan
  * @Date: 2020-04-29 23:27:44
  * @LastEditors: xujiahuan
- * @LastEditTime: 2020-05-01 10:34:19
+ * @LastEditTime: 2020-05-01 17:13:34
  -->
 # Pytoch实现LSTM文本分类
 
@@ -15,3 +15,8 @@ Pytorch版本:1.4.0
 Python版本:3.7
 
 词向量模型:fasttext
+
+运行方式:
+```
+python main.py
+```
